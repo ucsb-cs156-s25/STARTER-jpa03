@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-s25/STARTER-jpa03
 owner: ucsb-cs156-s25
 repo_name: STARTER-jpa03
-pull_requests: [{"author":{"id":"MDQ6VXNlcjExMTkwMTc=","is_bot":false,"login":"pconrad","name":"Phill Conrad"},"headRefName":"pc-removeFrontend","number":3,"title":"pc - remove frontend controller, add home page like team01's","url":"https://github.com/ucsb-cs156-s25/STARTER-jpa03/pull/3"}]
+pull_requests: [{"author":{"id":"MDQ6VXNlcjExMTkwMTc=","is_bot":false,"login":"pconrad","name":"Phill Conrad"},"headRefName":"pc-continueRemovingFrontend","number":4,"title":"Pc continue removing frontend","url":"https://github.com/ucsb-cs156-s25/STARTER-jpa03/pull/4"},{"author":{"id":"MDQ6VXNlcjExMTkwMTc=","is_bot":false,"login":"pconrad","name":"Phill Conrad"},"headRefName":"pc-removeFrontend","number":3,"title":"pc - remove frontend controller, add home page like team01's","url":"https://github.com/ucsb-cs156-s25/STARTER-jpa03/pull/3"}]
